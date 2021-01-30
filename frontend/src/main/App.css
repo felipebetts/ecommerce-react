@@ -1,0 +1,23 @@
+.app {
+    background-color: #eee;
+}
+
+a {
+    text-decoration: none;
+}
+  
+.MuiTouchRipple-root {
+    outline: none;
+}
+  
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.content {
+    margin: 0px 50px;
+}
+
+  

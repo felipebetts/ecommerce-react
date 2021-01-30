@@ -1,0 +1,35 @@
+:root {
+  --main-color: rgb(0, 1, 65);
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  font-family: Roboto, Oxygen, sans-serif;
+  
+}
+  
+  a {
+    color: inherit;
+    text-decoration: none;
+    font-family: inherit;
+  }
+  
+  * {
+    box-sizing: border-box;
+}
+
+
+.center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  outline: none !important;
+}

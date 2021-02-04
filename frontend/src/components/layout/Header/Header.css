@@ -114,7 +114,7 @@
     .link {
         display: flex;
         justify-content: center;
-        margin-right: calc(50% - width);
+        margin-right: 50%;
     }
 
     .drawer {
